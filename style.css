@@ -11,18 +11,18 @@ h1 {
   color: azure;
 }
 
-/* mobile */
+/* mobile
 @media (max-width: 767px) {
 }
 
-/* small screen */
+small screen
 @media (min-width: 768px) {
 }
 
-/* mediam screen */
+mediam screen
 @media (min-width: 992px) {
 }
 
-/* large screen */
+large screen
 @media (min-width: 1200px) {
-}
+} */
