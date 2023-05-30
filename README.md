@@ -1,4 +1,4 @@
-# Microverse_HTML_CSS_JS-Template
+# Microverse_HTML_CSS-Template
 
 <a name="readme-top"></a>
 
@@ -6,7 +6,7 @@
   <img src="#"  alt="project">
   <br/>
 
-  <h3><b> Personal Portfolio!</b></h3>
+  <h3><b> Microverse_HTML_CSS-Template</b></h3>
 
 </div>
 
@@ -31,10 +31,10 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Personal Portfolio! <a name="about-project"></a>
+# 📖 Microverse_HTML_CSS-Template <a name="about-project"></a>
 
-**My Personal Portfolio!**
-This is my second project with Microverse using Github professional flow and it's a porfolio website that is built in html & css, it includes my resume, basic information about me and my career, and projects I have worked on.
+**Microverse_HTML_CSS-Template**
+This template is meant to save your time when setting up any repo that uses html & css only.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS</a>
 
@@ -150,6 +150,6 @@ Can I contribute to this project?\*\*
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/GeekyHacks/Personal-Portfolio-Microverse/blob/c94c940b573e85b888d2d3da699284214552018b/MIT.md) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
